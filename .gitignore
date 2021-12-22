@@ -1,2 +1,11 @@
 # MacOS system files
 .DS_Store
+
+# VSCode files
+.vscode
+
+# Platform IO files
+.pio
+
+# Python Cache
+__pycache__
